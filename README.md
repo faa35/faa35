@@ -42,8 +42,7 @@
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 - **Cloud Hosting**:
-    <!-- ![Render.com Badge](https://img.shields.io/badge/render.com-hosting-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) -->
-    ![Render Badge](https://img.shields.io/badge/Render-Hosting-black?style=for-the-badge&logo=render&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
    <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
     
