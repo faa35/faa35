@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hello , I'm  </b></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>What’s good? I'm  </b></h1>
 <!--  -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -79,7 +79,7 @@
 
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Shoot me a message!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -94,7 +94,6 @@
 <a href="https://www.instagram.com/acanto_abdulla/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram:  acanto_abdulla-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-![Instagram]()
 
 <br>
 
