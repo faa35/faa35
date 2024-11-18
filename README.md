@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=30&height=70&pause=1000&color=260540&center=true&width=435&lines=Fardin+Abdulla+Acanto;Studying+CS+at+SFU;Spring+Boot+Developer+DEV;Like+to+Teach" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Carter+One&size=32&height=70&pause=1000&color=260540&center=true&width=435&lines=Fardin+Abdulla+Acanto;Studying+CS+at+SFU;Spring+Boot+Developer+DEV;Like+to+Teach" alt="Typing SVG" />
   </a>
 </p>
 
@@ -84,23 +84,23 @@
 <div align='left'>
 
 
-<a href="https://linkedin.com/in/asif-bhuiyan-shawon" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: asif bhuiyan shawon%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/fardin-abdulla-acanto-401b6532b/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: fardin abdulla acanto%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br>
 
-<a href="https://x.com/your_gumpy" target="_blank">
-<img src="https://img.shields.io/badge/x:  your_gumpy-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://x.com/acanto7777" target="_blank">
+<img src="https://img.shields.io/badge/x:  acanto7-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
-<a href="mailto:asifbhuiyanshawon@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  asifbhuiyanshawon-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:abdullafardin2202@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  	abdullafardin-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a><br>
 
-<a><img src="https://img.shields.io/badge/misir.ali-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
