@@ -102,7 +102,8 @@
 
 <br>
 
-<a><img src="https://img.shields.io/badge/siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/760451623474036766" target="_blank">
+<img src="https://img.shields.io/badge/siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
