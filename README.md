@@ -90,6 +90,14 @@
 
 <br>
 
+
+<a href="https://www.instagram.com/acanto_abdulla/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram:  acanto_abdulla-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+![Instagram]()
+
+<br>
+
 <a href="https://x.com/acanto7777" target="_blank">
 <img src="https://img.shields.io/badge/x:  acanto7-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter style="margin-bottom: 5px;"/>
 </a>
@@ -103,7 +111,7 @@
 <br>
 
 <a href="https://discordapp.com/users/760451623474036766" target="_blank">
-<img src="https://img.shields.io/badge/siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/discord:  siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
