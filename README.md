@@ -115,6 +115,6 @@
 
 
 
-<p align="left">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
-</p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
+
