@@ -86,14 +86,14 @@
 <img src="https://img.shields.io/badge/linkedin: fardin abdulla %20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> -->
 
-<br>
+
 
 
 <!-- <a href="https://www.instagram.com/acanto_abdulla/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram:  acanto_abdulla-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a> -->
 
-<br>
+
 
 <!-- <a href="https://x.com/acanto7777" target="_blank">
 <img src="https://img.shields.io/badge/x:  acanto7-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter style="margin-bottom: 5px;"/>
@@ -101,11 +101,9 @@
 
 
 
-<a href="mailto:abdullafardin2202@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  abdullafardin-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 
-<br>
+
+
 
 
 
@@ -113,7 +111,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/760451623474036766)](https://discord.com/users/760451623474036766)
 
-
+<a href="mailto:abdullafardin2202@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  abdullafardin-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
