@@ -99,7 +99,7 @@
 <img src="https://img.shields.io/badge/x:  acanto7-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
-<br>
+
 
 <a href="mailto:abdullafardin2202@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  abdullafardin-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -107,8 +107,7 @@
 
 <br>
 
-<a href="https://discordapp.com/users/760451623474036766" target="_blank">
-<img src="https://img.shields.io/badge/discord:  siuuu-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+
 
 </div>
 
