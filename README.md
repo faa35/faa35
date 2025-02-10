@@ -82,8 +82,8 @@
 <div align='left'>
 
 
-<a href="https://www.linkedin.com/in/fardin-abdulla-acanto-401b6532b/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: fardin abdulla acanto%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/fardin-abdulla/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: fardin abdulla %20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br>
