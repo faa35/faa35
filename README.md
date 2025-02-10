@@ -112,6 +112,6 @@
 
 </div>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/760451623474036766)](https://discord.com/users/760451623474036766)
 
 
