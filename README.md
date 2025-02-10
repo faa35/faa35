@@ -113,6 +113,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/760451623474036766)](https://discord.com/users/760451623474036766)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
 
 
+<p align="left">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
+</p>
