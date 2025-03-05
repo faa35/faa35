@@ -29,11 +29,7 @@ I am currently a third-year Computer Science student at the Simon Fraser Univers
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/760451623474036766)](https://discord.com/users/760451623474036766)
 
-<a href="mailto:abdullafardin2202@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fardin-abdulla/" target="_blank"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://www.instagram.com/acanto_abdulla/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a> <a href="https://x.com/acanto7777" target="_blank">
-<img src="https://img.shields.io/badge/x-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter />
-</a>
+<a href="mailto:abdullafardin2202@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fardin-abdulla/" target="_blank"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://www.instagram.com/acanto_abdulla/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a> <a href="https://x.com/acanto7777" target="_blank"> <img src="https://img.shields.io/badge/x-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=black" alt=twitter /> </a>
 
 
 <!-- <a href="https://skillicons.dev">
