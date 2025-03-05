@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi! My name is Fardin Abdulla
 ==================================================================================================================================
 
-I am currently a third-year Computer Science student at the Simon Fraser University. Every day, I am on a mission to add value, learn something new, and grow both as a developer and a problem solver.
+I am currently a third-year Computer Science student at the Simon Fraser University. Every day, I am trying my best to add value, learn something new, and grow both as a developer and a problem solver.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faa35.faa35)
 
